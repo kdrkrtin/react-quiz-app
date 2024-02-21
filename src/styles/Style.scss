@@ -1,0 +1,3 @@
+.app-container {
+  @apply text-3xl font-bold underline hover:text-red-400 before:content-["batu"] before:text-xl;
+}

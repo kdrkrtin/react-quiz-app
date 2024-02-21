@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1,
+    "label": "İstanbul Kaç yılında feth edildi ?",
+    "choise": [1453, 1564, 1997, 571],
+    "answer": 1453,
+    "category": 2
+  },
+  {
+    "id": 2,
+    "label": "Batuhan Kaç yılında doğudu ?",
+    "choise": [2001, 1991, 1997, 1931],
+    "answer": 2001,
+    "category": 2
+  },
+  {
+    "id": 3,
+    "label": "Fenerbahçe en son ne zaman şampiyon oldu ?",
+    "choise": [2013, 2015, 2014, 2023],
+    "answer": 2014,
+    "category": 5
+  },
+  {
+    "id": 4,
+    "label": "5 * 5 = ?",
+    "choise": [25, 15, 36, 31],
+    "answer": 2014,
+    "category": 3
+  },
+  {
+    "id": 5,
+    "label": "Hangisi JavaScript'te bir döngü türü değildir?",
+    "choise": ["for", "foreach", "while", "loopthrough"],
+    "answer": "loopthrough",
+    "category": 1
+  },
+  {
+    "id": 6,
+    "label": "JavaScript'te 'null' için doğru ifade hangisidir?",
+    "choise": [
+      "Bir değişkenin boş olduğunu belirtir",
+      "Bir değişkenin tanımsız olduğunu belirtir",
+      "0 değerine eşittir",
+      "Bir hata tipidir"
+    ],
+    "answer": "Bir değişkenin boş olduğunu belirtir",
+    "category": 1
+  },
+  {
+    "id": 7,
+    "label": "Osmanlı İmparatorluğu hangi savaşla sona ermiştir?",
+    "choise": [
+      "Kurtuluş Savaşı",
+      "1. Dünya Savaşı",
+      "Çanakkale Savaşı",
+      "2. Balkan Savaşı"
+    ],
+    "answer": "1. Dünya Savaşı",
+    "category": 2
+  },
+  {
+    "id": 8,
+    "label": "Hangisi matematiksel bir ifadedir?",
+    "choise": [
+      "Pi sayısı",
+      "İstanbul'un fethi",
+      "Dünya'nın şekli",
+      "Türkçenin kökeni"
+    ],
+    "answer": "Pi sayısı",
+    "category": 3
+  },
+  {
+    "id": 9,
+    "label": "Toplumsal değişim teorilerinden biri değildir?",
+    "choise": [
+      "Fonksiyonalizm",
+      "Evrimcilik",
+      "Yapısalcılık",
+      "Kuantum teorisi"
+    ],
+    "answer": "Kuantum teorisi",
+    "category": 4
+  },
+  {
+    "id": 10,
+    "label": "Olimpiyat Oyunları kaç yılda bir düzenlenir?",
+    "choise": ["2", "4", "6", "8"],
+    "answer": "4",
+    "category": 5
+  },
+  {
+    "id": 11,
+    "label": "İlk programlama dili hangisidir?",
+    "choise": ["C", "FORTRAN", "Pascal", "Assembly"],
+    "answer": "FORTRAN",
+    "category": 1
+  },
+  {
+    "id": 12,
+    "label": "Galata Kulesi hangi şehirdedir?",
+    "choise": ["İstanbul", "İzmir", "Bursa", "Ankara"],
+    "answer": "İstanbul",
+    "category": 2
+  },
+  {
+    "id": 13,
+    "label": "3'ün karesi kaçtır?",
+    "choise": ["6", "9", "12", "15"],
+    "answer": "9",
+    "category": 3
+  },
+  {
+    "id": 14,
+    "label": "Sosyoloji neyi inceler?",
+    "choise": ["Toplumu", "Canlıları", "Uzayı", "Kimyasalları"],
+    "answer": "Toplumu",
+    "category": 4
+  },
+  {
+    "id": 15,
+    "label": "FIFA Dünya Kupası kaç yılda bir yapılmaktadır?",
+    "choise": ["2", "3", "4", "5"],
+    "answer": "4",
+    "category": 5
+  },
+  {
+    "id": 16,
+    "label": "Hangisi bir JavaScript veri türü değildir?",
+    "choise": ["String", "Boolean", "Element", "Number"],
+    "answer": "Element",
+    "category": 1
+  },
+  {
+    "id": 17,
+    "label": "Hangi şehir Türkiye'nin başkentidir?",
+    "choise": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+    "answer": "Ankara",
+    "category": 2
+  },
+  {
+    "id": 18,
+    "label": "İki asal sayının toplamı her zaman ne tür bir sayıdır?",
+    "choise": ["Tek", "Çift", "Asal", "Kompozit"],
+    "answer": "Çift",
+    "category": 3
+  },
+  {
+    "id": 19,
+    "label": "Demokrasi ile ilgili hangisi yanlıştır?",
+    "choise": [
+      "Halk yönetimi",
+      "Tek kişilik yönetim",
+      "Çoğunluk kararı",
+      "Seçme ve seçilme hakkı"
+    ],
+    "answer": "Tek kişilik yönetim",
+    "category": 4
+  },
+  {
+    "id": 20,
+    "label": "En popüler basketbol ligi hangisidir?",
+    "choise": ["NBA", "Euroleague", "FIBA", "CBA"],
+    "answer": "NBA",
+    "category": 5
+  },
+  {
+    "id": 21,
+    "label": "ES6 ile gelen yeniliklerden biri değil midir?",
+    "choise": ["let ve const", "Arrow Functions", "Classes", "Pointers"],
+    "answer": "Pointers",
+    "category": 1
+  },
+  {
+    "id": 22,
+    "label": "Cumhuriyetin ilanından önceki son Osmanlı padişahı kimdir?",
+    "choise": ["V. Mehmet", "VI. Mehmet", "VII. Mehmet", "IV. Mehmet"],
+    "answer": "VI. Mehmet",
+    "category": 2
+  },
+  {
+    "id": 23,
+    "label": "Pi sayısının yaklaşık değeri nedir?",
+    "choise": ["3.14", "2.85", "3.56", "4.13"],
+    "answer": "3.14",
+    "category": 3
+  },
+  {
+    "id": 24,
+    "label": "Küreselleşme ile ilgili hangisi doğrudur?",
+    "choise": [
+      "Yerel kültürlerin yok olması",
+      "Dünya çapında ekonomik entegrasyon",
+      "Ulus devletlerin güçlenmesi",
+      "Teknolojik gelişmenin durması"
+    ],
+    "answer": "Dünya çapında ekonomik entegrasyon",
+    "category": 4
+  },
+  {
+    "id": 25,
+    "label": "Olimpiyat oyunlarında hangi renklerde halkalar bulunur?",
+    "choise": [
+      "Kırmızı, yeşil, mavi, sarı, siyah",
+      "Kırmızı, beyaz, mavi, yeşil, turuncu",
+      "Siyah, beyaz, gri, kırmızı, mavi",
+      "Mavi, sarı, siyah, yeşil, kırmızı"
+    ],
+    "answer": "Kırmızı, yeşil, mavi, sarı, siyah",
+    "category": 5
+  },
+  {
+    "id": 26,
+    "label": "JavaScript'te 'Promises' ne işe yarar?",
+    "choise": [
+      "Asenkron programlama",
+      "Senkron programlama",
+      "Veri saklama",
+      "Döngü oluşturma"
+    ],
+    "answer": "Asenkron programlama",
+    "category": 1
+  },
+  {
+    "id": 27,
+    "label": "Ankara Antlaşması hangi savaşın sonucudur?",
+    "choise": [
+      "Kurtuluş Savaşı",
+      "1. Dünya Savaşı",
+      "Balkan Savaşları",
+      "Çanakkale Savaşı"
+    ],
+    "answer": "Kurtuluş Savaşı",
+    "category": 2
+  },
+  {
+    "id": 28,
+    "label": "Bir üçgenin iç açılarının toplamı kaç derecedir?",
+    "choise": ["180", "360", "90", "270"],
+    "answer": "180",
+    "category": 3
+  },
+  {
+    "id": 29,
+    "label": "Sosyal bilimlerin inceleme alanına girmeyen nedir?",
+    "choise": ["Toplum", "Kültür", "Uzay", "Dil"],
+    "answer": "Uzay",
+    "category": 4
+  },
+  {
+    "id": 30,
+    "label": "Dünya Kupası'nda en çok şampiyon olan ülke hangisidir?",
+    "choise": ["Almanya", "Brezilya", "İtalya", "Arjantin"],
+    "answer": "Brezilya",
+    "category": 5
+  }
+]

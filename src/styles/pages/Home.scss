@@ -1,0 +1,6 @@
+.home-screen {
+  @apply container mx-auto;
+  ul li {
+    @apply py-4 border border-2;
+  }
+}
